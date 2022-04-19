@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @voidwulf
-- 👀 I’m interested in software and game development.
-- 🌱 I’m currently learning Full Stack Software Development
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Martin.
+- 👀 I’m interested in software and game development, computer vision and data anlytics. 
+- 🌱 I’m currently learning Full Stack Software Development.
+- 💞️ I’m looking to collaborate on projects using Django.
 - 📫 How to reach me ...
 
 <!---
